@@ -158,3 +158,34 @@ line-height: 30px;
 .all{
     text-align: center;
 }
+
+/*instagram strat*/
+
+.text{
+    text-align: center;
+}
+.title4{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 100px;
+padding-bottom: 0px;
+}
+.para4{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding: 0px;
+padding-bottom: 30px;
+}
+.pic4{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 240px;
+}
