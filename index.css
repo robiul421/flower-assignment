@@ -194,7 +194,7 @@ padding-bottom: 30px;
 
 .gtld{
     border-radius: 8px;
-background-image: url('../Assignment-1/flower-shop-assignment/Flower-Asset/Rectangle-9.png');
+background-image: url('./Flower-Asset/Rectangle-9.png');
 background-repeat: no-repeat;
 margin: 128px 240px;
 }
