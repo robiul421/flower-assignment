@@ -226,3 +226,42 @@ margin: 128px 240px;
 height: 64px;
 flex-shrink: 0;
 }
+
+/* footer strat*/
+
+.last{
+    background-color: black;
+    text-align: center;
+    padding: 128px 600px;
+}
+.title6{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.title6 span{
+    color: #FFF;
+}
+
+ .last .add{
+    display: inline;
+}
+.para6{
+    color: rgba(255, 255, 255, 0.90);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.para7{
+    color: rgba(255, 255, 255, 0.40);
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
